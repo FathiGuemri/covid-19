@@ -4,7 +4,7 @@
     "theme_color": "#1976d2",
     "background_color": "#eee",
     "display": "fullscreen",
-    "scope": "./",
+    "scope": "/covid-19/",
     "description": "الإحصاءات انتشار فيروس كورونا المستجد (كوفيد-19)",
     "start_url": "/covid-19/",
     "icons": [
