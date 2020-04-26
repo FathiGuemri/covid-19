@@ -6,7 +6,7 @@
     "display": "fullscreen",
     "scope": "./",
     "description": "الإحصاءات انتشار فيروس كورونا المستجد (كوفيد-19)",
-    "start_url": "/covid-cases/",
+    "start_url": "/covid-19/",
     "icons": [
       {
         "src": "/favicon.ico"
