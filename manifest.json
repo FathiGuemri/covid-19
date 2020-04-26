@@ -4,7 +4,7 @@
     "theme_color": "#1976d2",
     "background_color": "#eee",
     "display": "fullscreen",
-    "scope": "https://fathiguemri.github.io/covid-19/",
+    "scope": "/",
     "description": "الإحصاءات انتشار فيروس كورونا المستجد (كوفيد-19)",
     "start_url": "/covid-19/",
     "icons": [
