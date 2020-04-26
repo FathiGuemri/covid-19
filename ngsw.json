@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587864777383,
+  "index": "covid-cases/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "covid-cases/favicon.ico",
+        "covid-cases/index.html",
+        "covid-cases/main-es2015.4ebe98e9b3dd8ab05174.js",
+        "covid-cases/main-es2015.c952b7b5baa443387931.js",
+        "covid-cases/main-es5.4ebe98e9b3dd8ab05174.js",
+        "covid-cases/main-es5.c952b7b5baa443387931.js",
+        "covid-cases/manifest.json",
+        "covid-cases/ngsw-worker.js",
+        "covid-cases/polyfills-es2015.113797c2bb5d0c960d4b.js",
+        "covid-cases/polyfills-es5.5524a5f91354b95122f9.js",
+        "covid-cases/runtime-es2015.0811dcefd377500b5b1a.js",
+        "covid-cases/runtime-es5.0811dcefd377500b5b1a.js",
+        "covid-cases/safety-worker.js",
+        "covid-cases/styles.b38009b53c9d2d460f6e.css",
+        "covid-cases/worker-basic.min.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "covid-cases/assets/bg-1.jpg",
+        "covid-cases/assets/covid19.png",
+        "covid-cases/assets/icons/icon-128x128.png",
+        "covid-cases/assets/icons/icon-144x144.png",
+        "covid-cases/assets/icons/icon-192x192.png",
+        "covid-cases/assets/icons/icon-384x384.png",
+        "covid-cases/assets/icons/icon-512x512.png",
+        "covid-cases/assets/icons/icon-72x72.png",
+        "covid-cases/assets/icons/icon-96x96.png",
+        "covid-cases/assets/mapsanimation.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "covid-cases/assets/bg-1.jpg": "8b1f3dedb4bcead04c181789c528ffd6cdb519cf",
+    "covid-cases/assets/covid19.png": "e0d0ac5a89d9647abd5d92bbaa43ac7b01a4172c",
+    "covid-cases/assets/icons/icon-128x128.png": "e41bb95fd6b2ccf129ee1fa695d498c84f897417",
+    "covid-cases/assets/icons/icon-144x144.png": "443ab0eb020363a3c56ddd196d4e68c574bd867d",
+    "covid-cases/assets/icons/icon-192x192.png": "bf1e34527c38ea7fab4db580a8f6d66a55cd68c9",
+    "covid-cases/assets/icons/icon-384x384.png": "9220201bbc85d2275f4f6df175d87dcd9c27dcc4",
+    "covid-cases/assets/icons/icon-512x512.png": "9220201bbc85d2275f4f6df175d87dcd9c27dcc4",
+    "covid-cases/assets/icons/icon-72x72.png": "e1e0d6ef4a0a1d84b7366e829ca2551fed9915b9",
+    "covid-cases/assets/icons/icon-96x96.png": "2ab84dbd51ffc68245cc27e1fdc3cc026a427fd6",
+    "covid-cases/assets/mapsanimation.gif": "22b9af2aa9ed239ec92d615257b500332bf9ccee",
+    "covid-cases/favicon.ico": "84aab682eeb5c920b87d20c3ef8dc408d6056ff5",
+    "covid-cases/index.html": "eff198d2decb72a5b312f4b333feb6860f2d0f62",
+    "covid-cases/main-es2015.4ebe98e9b3dd8ab05174.js": "0e954796b82d28ca926094dcb0d043be4225fdc4",
+    "covid-cases/main-es2015.c952b7b5baa443387931.js": "abd764afc7214869f6e935611d23ffe499597aa7",
+    "covid-cases/main-es5.4ebe98e9b3dd8ab05174.js": "611a3658ab47cbcce6ecad2f4c1c39d718a7dc1e",
+    "covid-cases/main-es5.c952b7b5baa443387931.js": "fa897e1e32d05ddcba3f9a40ee8373bcafe145c5",
+    "covid-cases/manifest.json": "b69870d4ce324d680771d2e09c4d9e5143d7a88a",
+    "covid-cases/ngsw-worker.js": "3798e7f10ebdd6f55cacf4010af1fe5085cf6c16",
+    "covid-cases/polyfills-es2015.113797c2bb5d0c960d4b.js": "90fb474e1a7d87bd57bc8a95fb3fd361b919d815",
+    "covid-cases/polyfills-es5.5524a5f91354b95122f9.js": "694bec1ff7b951f42234bb9055ea01d016f0a7ac",
+    "covid-cases/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "covid-cases/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "covid-cases/safety-worker.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9",
+    "covid-cases/styles.b38009b53c9d2d460f6e.css": "b2b57f590a742cd94b9ac6e17f92d0b2f80dbd2e",
+    "covid-cases/worker-basic.min.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
